@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-02T02:46:43Z" name="Default suite" finished-at="2019-04-02T02:48:41Z" duration-ms="118148">
+    <groups>
+    </groups>
+    <test started-at="2019-04-02T02:46:43Z" name="Default test" finished-at="2019-04-02T02:48:41Z" duration-ms="118148">
+      <class name="Employee.AddEmp">
+        <test-method signature="AddEmp_datadriventest()[pri:0, instance:Employee.AddEmp@23986957]" started-at="2019-04-02T02:46:43Z" name="AddEmp_datadriventest" finished-at="2019-04-02T02:48:41Z" duration-ms="117679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmp_datadriventest -->
+      </class> <!-- Employee.AddEmp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
